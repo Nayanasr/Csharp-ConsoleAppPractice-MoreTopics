@@ -1,0 +1,13 @@
+C:\Users\107012\source\repos\PracticeConsoleApp\PracticeConsoleApp\bin\Debug\netcoreapp3.1\PracticeConsoleApp.exe
+C:\Users\107012\source\repos\PracticeConsoleApp\PracticeConsoleApp\bin\Debug\netcoreapp3.1\PracticeConsoleApp.deps.json
+C:\Users\107012\source\repos\PracticeConsoleApp\PracticeConsoleApp\bin\Debug\netcoreapp3.1\PracticeConsoleApp.runtimeconfig.json
+C:\Users\107012\source\repos\PracticeConsoleApp\PracticeConsoleApp\bin\Debug\netcoreapp3.1\PracticeConsoleApp.runtimeconfig.dev.json
+C:\Users\107012\source\repos\PracticeConsoleApp\PracticeConsoleApp\bin\Debug\netcoreapp3.1\PracticeConsoleApp.dll
+C:\Users\107012\source\repos\PracticeConsoleApp\PracticeConsoleApp\bin\Debug\netcoreapp3.1\PracticeConsoleApp.pdb
+C:\Users\107012\source\repos\PracticeConsoleApp\PracticeConsoleApp\obj\Debug\netcoreapp3.1\PracticeConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\107012\source\repos\PracticeConsoleApp\PracticeConsoleApp\obj\Debug\netcoreapp3.1\PracticeConsoleApp.AssemblyInfoInputs.cache
+C:\Users\107012\source\repos\PracticeConsoleApp\PracticeConsoleApp\obj\Debug\netcoreapp3.1\PracticeConsoleApp.AssemblyInfo.cs
+C:\Users\107012\source\repos\PracticeConsoleApp\PracticeConsoleApp\obj\Debug\netcoreapp3.1\PracticeConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\107012\source\repos\PracticeConsoleApp\PracticeConsoleApp\obj\Debug\netcoreapp3.1\PracticeConsoleApp.dll
+C:\Users\107012\source\repos\PracticeConsoleApp\PracticeConsoleApp\obj\Debug\netcoreapp3.1\PracticeConsoleApp.pdb
+C:\Users\107012\source\repos\PracticeConsoleApp\PracticeConsoleApp\obj\Debug\netcoreapp3.1\PracticeConsoleApp.genruntimeconfig.cache
